@@ -1,0 +1,969 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7940
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.11 0.192 0.267 rg
+177.839999999999975 750. Td
+(KATTA CHAITHANYA KUMAR) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0.133 g
+168.1999999999999602 735. Td
+(Frontend Engineer · React, TypeScript & AI-Powered Products) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+129.4125000000000796 721. Td
+(Phone: +91 8919459268  |  Email: kattachaithanyak@gmail.com  |  Location: Hyderabad, India) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+46.6650000000002478 709. Td
+(LinkedIn: linkedin.com/in/kattachaithanyakumar  |  GitHub: github.com/KattachaithanyaKumar  |  npm: npmjs.com/~chaithanya-kumar-katta) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.11 0.192 0.267 rg
+40. 689. Td
+(SUMMARY) Tj
+ET
+0.53 G
+0.75 w
+40. 686. m
+572. 686. l
+S
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 g
+40. 674. Td
+(Frontend Engineer with 3+ years of experience specializing in React and TypeScript, building high-performance interfaces with Next.js) Tj
+T* (App Router, Server Components, and Server Actions. Proven leadership in sprint management and delivery of scalable, AI-powered) Tj
+T* (web applications, with hands-on ownership of testing, observability, and CI/CD across the full development lifecycle. Passionate about) Tj
+T* (component-driven architecture, design systems, and building high-performance user interfaces.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 g
+46. 626. Td
+(•) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 g
+56. 626. Td
+(3+ years building scalable, production-grade web applications with React, TypeScript, and Next.js \(App Router, Server Actions,) Tj
+T* (RSC, Concurrent Features\).) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 g
+46. 602. Td
+(•) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 g
+56. 602. Td
+(Promoted to Engineer at Virtusa; appointed Frontend Sprint Lead overseeing a 3-person team across sprint planning, code) Tj
+T* (reviews, and cross-functional feature delivery.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 g
+46. 578. Td
+(•) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 g
+56. 578. Td
+(Architected the frontend of a greenfield AI agent orchestration platform, delivering a reusable component library, real-time) Tj
+T* (monitoring dashboards, and a 35% Lighthouse performance gain.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 g
+46. 554. Td
+(•) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.2 g
+56. 554. Td
+(Focused on component-driven architecture, design systems, unit/integration/E2E testing, observability, and scalable frontend) Tj
+T* (infrastructure.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.11 0.192 0.267 rg
+40. 524. Td
+(TECHNICAL SKILLS) Tj
+ET
+0.53 G
+0.75 w
+40. 521. m
+572. 521. l
+S
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 509. Td
+(Core Frameworks:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+118.375 509. Td
+(React \(Concurrent Features, Server Components\), Next.js \(App Router, Server Actions, RSC\), TypeScript, JavaScript) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 498.5 Td
+(State Management:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+121.4350000000000023 498.5 Td
+(Redux Toolkit, Zustand, TanStack Query \(React Query\), Context API) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 488. Td
+(UI & Styling:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+94.4050000000000153 488. Td
+(Tailwind CSS, Shadcn/ui, Material-UI \(MUI\), CSS Modules/Styled Components, Storybook) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 477.5 Td
+(Frontend:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+83.5250000000000057 477.5 Td
+(GraphQL, REST APIs, Micro Frontends, Component-Driven Architecture, React Native, React Hook Form, UI/UX Implementation) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 467. Td
+(Build & Performance:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+130.6150000000000091 467. Td
+(Vite, Webpack, Turbopack, SWC/esbuild, Lazy Loading, Code Splitting, Memoization, Bundle Optimization, API) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+50. 457. Td
+(Caching, Debounce/Throttle, Virtualization, Lighthouse CI) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 446.5 Td
+(Testing & Quality:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+116.5050000000000097 446.5 Td
+(Vitest, Jest, React Testing Library, Playwright, Unit/Integration/E2E Testing, Storybook) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 436. Td
+(Code Quality & DevOps:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+141.9200000000000159 436. Td
+(ESLint, Prettier, Husky, lint-staged, SonarQube, Git \(GitHub/GitLab\), CI/CD \(GitHub Actions, GitLab CI\)) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 425.5 Td
+(Infrastructure:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+101.7999999999999972 425.5 Td
+(AWS, Docker, Kubernetes) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 415. Td
+(Backend & Databases:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+135.035000000000025 415. Td
+(Node.js, Express, Spring Boot, MongoDB, MySQL, Supabase, Firebase) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.133 g
+40. 404.5 Td
+(Practices:) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+84.289999999999992 404.5 Td
+(Agile/Scrum, Sprint Leadership, Cross-functional Collaboration, Technical Code Review, Mentorship, Responsive Design,) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+50. 394.5 Td
+(Cross-browser Compatibility, WCAG/a11y) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.11 0.192 0.267 rg
+40. 378. Td
+(WORK EXPERIENCE) Tj
+ET
+0.53 G
+0.75 w
+40. 375. m
+572. 375. l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.11 0.192 0.267 rg
+40. 363. Td
+(Engineer & Frontend Sprint Lead) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.133 g
+40. 352. Td
+(Virtusa Consulting Services · Jan 2024 – Present) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+46. 341. Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+56. 341. Td
+(Appointed Frontend Sprint Lead for a 3-person team, assigned tasks, conducted peer code reviews, and held final sign-off authority on all) Tj
+T* (frontend feature releases.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+46. 318. Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+56. 318. Td
+(Sole frontend owner across 3+ consecutive high-velocity sprint cycles, scoped, built, and shipped all UI deliverables on schedule with) Tj
+T* (zero escalations to senior engineers.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.133 g
+44. 291. Td
+(Helio Foundation — AI Agent Orchestration Platform) Tj
+ET
+BT
+/F3 8 Tf
+9.1999999999999993 TL
+0.2 g
+44. 281. Td
+(React.js, TypeScript, Tailwind CSS, GraphQL, React Hook Form · 35% Lighthouse gain, 30% faster feature dev) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 270. Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 270. Td
+(Architected the greenfield frontend from inception across 5+ core modules, defining component structure, design system, and frontend) Tj
+T* (standards for a platform Virtusa pitches to enterprise clients.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 247.5 Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 247.5 Td
+(Engineered a comprehensive reusable UI component library \(cards, accordions, tabs, dashboards, profile pages\), reducing new feature) Tj
+T* (development time by ~30% and onboarding time for new engineers.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 225. Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 225. Td
+(Built a custom multi-step form system with dynamic field rendering and state management via React Hook Form; delivered 4+ real-time) Tj
+T* (data visualizations \(line charts, stacked bar graphs\) monitoring AI agents, MCP servers, and RAG corpora.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 202.5 Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 202.5 Td
+(Applied lazy loading, memoization, API caching, debouncing, and code splitting, improving Lighthouse initial load score by ~35% and) Tj
+T* (reducing bundle size.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 5499
+>>
+stream
+0.75 w
+0.53 G
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.133 g
+44. 750. Td
+(Internal Enterprise Tooling \(Lumos & Helio Build\)) Tj
+ET
+BT
+/F3 8 Tf
+9.1999999999999993 TL
+0.2 g
+44. 740. Td
+(React.js, Tailwind CSS, MongoDB · 25% faster delivery, 20% fewer bugs) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 729. Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 729. Td
+(Implemented a hierarchical 3-tier project management UI \(Lumos\) with tree-based navigation, dynamic modals, and client-side PDF) Tj
+T* (export, reducing manual data entry errors by ~15% and eliminating a recurring support request category.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 706.5 Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 706.5 Td
+(Engineered a scalable navigation system \(Helio Build\) using reusable layout components and a service-based API architecture, cutting) Tj
+T* (new-page development time by ~25% per sprint cycle.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 684. Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 684. Td
+(Refactored component architecture across 2 legacy product modules, achieving ~20% improvement in Lighthouse performance scores) Tj
+T* (and reducing the active UI bug backlog by 20%.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.11 0.192 0.267 rg
+40. 653.5 Td
+(Associate Engineer Intern) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.133 g
+40. 642.5 Td
+(Virtusa Consulting Services · Mar 2023 – Dec 2023) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+46. 631.5 Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+56. 631.5 Td
+(Developed React.js frontend features and reusable UI components during a structured pre-joining internship, contributing to a ~20%) Tj
+T* (reduction in recurring UI defects.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+46. 608.5 Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+56. 608.5 Td
+(Selected as one of ~10 interns from a large cohort for a full-time Engineer offer, based on consistent on-time delivery and quality of) Tj
+T* (technical contributions.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.11 0.192 0.267 rg
+40. 577.5 Td
+(Freelance Web Developer) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.133 g
+40. 566.5 Td
+(4 Clients — Education, Logistics & Services · Aug 2021 – Jan 2024) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+46. 555.5 Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+56. 555.5 Td
+(Led a 3-person team to scope, wireframe, and deliver full-stack web applications for clients across education and logistics verticals.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+46. 543. Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+56. 543. Td
+(Personally handled Figma prototyping and built production-ready frontends for all 4 clients using React.js, Sanity.io CMS, and Firebase,) Tj
+T* (delivering CMS, real-time data sync, and fully responsive layouts on schedule.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.11 0.192 0.267 rg
+40. 510. Td
+(PERSONAL PROJECTS & OPEN SOURCE) Tj
+ET
+0.53 G
+0.75 w
+40. 507. m
+572. 507. l
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.133 g
+44. 495. Td
+(JTracker · npm: @chaithanya-kumar-katta/jtracker) Tj
+ET
+BT
+/F3 8 Tf
+9.1999999999999993 TL
+0.2 g
+44. 485. Td
+(Node.js, @inquirer/prompts, chalk, cli-table3) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 474. Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 474. Td
+(Published a local, offline-first CLI ticket tracker for developers needing lightweight sprint and issue management without cloud) Tj
+T* (dependencies or complex setup.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 451.5 Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 451.5 Td
+(Persists data to ~/.jtracker/data.json with interactive prompts, color-coded output, and tabular analytics views.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.133 g
+44. 433.5 Td
+(README Forge) Tj
+ET
+BT
+/F3 8 Tf
+9.1999999999999993 TL
+0.2 g
+44. 423.5 Td
+(JavaScript, Node.js, GitHub REST API, Gemini/OpenAI APIs) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 412.5 Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 412.5 Td
+(AI-powered documentation engine that parses GitHub repository trees and automatically generates structured, production-quality) Tj
+T* (README files.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.133 g
+44. 384. Td
+(Feather UI · Live Demo Available) Tj
+ET
+BT
+/F3 8 Tf
+9.1999999999999993 TL
+0.2 g
+44. 374. Td
+(React.js, TypeScript, Tailwind CSS) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+48. 363. Td
+(•) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+58. 363. Td
+(Reusable React component library focused on clean design, accessibility, and developer experience — built following strict) Tj
+T* (component-driven architecture best practices.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.11 0.192 0.267 rg
+40. 330.5 Td
+(EDUCATION) Tj
+ET
+0.53 G
+0.75 w
+40. 327.5 m
+572. 327.5 l
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.133 g
+40. 315.5 Td
+(B.Tech in Computer Science Engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+40. 305.5 Td
+(Guru Nanak Institute of Technology, Hyderabad · 2020 – 2023) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.11 0.192 0.267 rg
+40. 287.5 Td
+(CERTIFICATIONS) Tj
+ET
+0.53 G
+0.75 w
+40. 284.5 m
+572. 284.5 l
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.133 g
+40. 272.5 Td
+(Oracle Certified Associate — Java SE 8 Programmer) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.2 g
+238.7299999999999898 272.5 Td
+( · Oracle University, 2023) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260831083135-00'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000013768 00000 n 
+0000015593 00000 n 
+0000000015 00000 n 
+0000000120 00000 n 
+0000008112 00000 n 
+0000008217 00000 n 
+0000013831 00000 n 
+0000013956 00000 n 
+0000014086 00000 n 
+0000014219 00000 n 
+0000014357 00000 n 
+0000014481 00000 n 
+0000014610 00000 n 
+0000014742 00000 n 
+0000014878 00000 n 
+0000015006 00000 n 
+0000015133 00000 n 
+0000015262 00000 n 
+0000015395 00000 n 
+0000015497 00000 n 
+0000015843 00000 n 
+0000015929 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <0E6C0A0BB489188B583D89FD65A2E4FE> <0E6C0A0BB489188B583D89FD65A2E4FE> ]
+>>
+startxref
+16033
+%%EOF
