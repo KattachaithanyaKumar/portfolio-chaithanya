@@ -1,0 +1,103 @@
+import type { SkillsData } from "../types";
+
+export const skillsData: SkillsData = {
+  eyebrow: "Technical Repertoire",
+  heading: "Skills & Technologies",
+  description:
+    "A categorized index of modern languages, frameworks, testing harnesses, and tooling I leverage daily to engineer resilient products.",
+  categories: [
+    {
+      id: "frontend",
+      name: "Frontend Engineering",
+      description:
+        "Core UI frameworks, typed state management, and modern component paradigms.",
+      skills: [
+        "React",
+        "TypeScript",
+        "Next.js App Router",
+        "Tailwind CSS",
+        "Shadcn/ui",
+        "MUI",
+        "TanStack Query",
+        "Redux Toolkit",
+        "JavaScript (ESNext)",
+        "HTML5 / CSS3",
+      ],
+    },
+    {
+      id: "backend",
+      name: "Backend & Storage",
+      description:
+        "Server runtimes, relational databases, schema design, and secure auth.",
+      skills: [
+        "Node.js",
+        "Express",
+        "Sequelize ORM",
+        "MySQL",
+        "RESTful APIs",
+        "JWT Authentication",
+        "Serverless Functions",
+      ],
+    },
+    {
+      id: "testing-tooling",
+      name: "Testing & Tooling",
+      description:
+        "Automated regression testing, code quality scanners, and git hooks.",
+      skills: [
+        "Jest",
+        "React Testing Library",
+        "Vitest",
+        "Playwright",
+        "SonarQube",
+        "Husky",
+        "lint-staged",
+        "ESLint",
+        "Prettier",
+      ],
+    },
+    {
+      id: "perf-quality",
+      name: "Performance & Quality",
+      description:
+        "Latency reduction, web vitals benchmarking, and accessibility.",
+      skills: [
+        "Core Web Vitals",
+        "Bundle Size Optimization",
+        "Web Accessibility (WCAG 2.1)",
+        "Code Splitting",
+        "Tree Shaking",
+        "Lighthouse CI",
+      ],
+    },
+    {
+      id: "infra-ci",
+      name: "Infra, Cloud & CI/CD",
+      description:
+        "Containerization, cloud providers, and automated deployment pipelines.",
+      skills: [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "GitHub Actions",
+        "GitLab CI",
+        "Vercel",
+        "npm Publishing",
+      ],
+    },
+    {
+      id: "ai-augmented",
+      name: "AI-Augmented Development",
+      description:
+        "Accelerating execution through prompt workflows and AI coding environments.",
+      skills: [
+        "Claude 3.7",
+        "Cursor IDE",
+        "GitHub Copilot",
+        "LLM Prompt Engineering",
+        "Agentic Architectures",
+        "Context Management",
+      ],
+    },
+  ],
+};
