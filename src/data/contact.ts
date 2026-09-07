@@ -20,7 +20,7 @@ export const contactData: ContactData = {
   submitButtonText: "Send Message",
   submittingText: "Dispatching Message...",
   successMessage:
-    "Thank you! Your message has been prepared and sent. I'll get back to you promptly.",
+    "Thank you! Your message has been sent. I'll get back to you promptly.",
   errorMessage:
     "Something went wrong sending through the web client. Clicking below will open your email app directly.",
   mailtoFallbackText: "Or reach me directly via email client",
